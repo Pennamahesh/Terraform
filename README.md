@@ -1,2 +1,0 @@
-# Terraform
-Entire Terraform Practice
